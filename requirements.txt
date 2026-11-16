@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-openai
+python-dotenv
+psycopg2-binary
+psycopg[binary]
+sqlglot
+presidio-analyzer
+fastapi
+uvicorn
